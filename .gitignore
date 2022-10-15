@@ -1,0 +1,10 @@
+Debug/
+.vs/
+Release/
+.Cache/
+*.txt
+*/Debug/*
+*/.vs/*
+.git_old.zip
+.vs/*
+*.docx
