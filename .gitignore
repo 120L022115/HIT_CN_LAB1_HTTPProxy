@@ -2,7 +2,7 @@ Debug/
 .vs/
 Release/
 .Cache/
-*.txt
+log.txt
 */Debug/*
 */.vs/*
 .git_old.zip
